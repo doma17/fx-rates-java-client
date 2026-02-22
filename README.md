@@ -29,7 +29,7 @@ A Java client library for [ExchangeRate-API v6](https://www.exchangerate-api.com
 
 ## Installation
 
-Use the latest released version (replace `0.1.0` with your target version).
+Use the latest released version (replace `1.0.0` with your target version).
 
 ### Core (Pure Java/Kotlin)
 
@@ -39,7 +39,7 @@ Maven:
 <dependency>
   <groupId>io.github.doma17</groupId>
   <artifactId>fx-rates-java-client</artifactId>
-  <version>0.1.0</version>
+  <version>1.0.0</version>
 </dependency>
 ```
 
@@ -47,7 +47,7 @@ Gradle:
 
 ```kotlin
 dependencies {
-    implementation("io.github.doma17:fx-rates-java-client:0.1.0")
+    implementation("io.github.doma17:fx-rates-java-client:1.0.0")
 }
 ```
 
@@ -59,7 +59,7 @@ Maven:
 <dependency>
   <groupId>io.github.doma17</groupId>
   <artifactId>fx-rates-java-client-spring-boot-starter</artifactId>
-  <version>0.1.0</version>
+  <version>1.0.0</version>
 </dependency>
 ```
 
@@ -67,7 +67,7 @@ Gradle:
 
 ```kotlin
 dependencies {
-    implementation("io.github.doma17:fx-rates-java-client-spring-boot-starter:0.1.0")
+    implementation("io.github.doma17:fx-rates-java-client-spring-boot-starter:1.0.0")
 }
 ```
 

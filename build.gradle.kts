@@ -3,7 +3,7 @@ plugins {
 }
 
 group = "io.github.doma17"
-version = "0.1.0-SNAPSHOT"
+version = "1.0.0"
 
 description = "Java FX rates client libraries"
 
